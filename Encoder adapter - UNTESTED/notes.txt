@@ -1,0 +1,4 @@
+Designed to connect 5mm with 3mm rod and attaching encoder shroud.
+
+UNTESTED!
+CHANNELS A AND B ON THE ENCODER NEED TO BE SWAPPED!
