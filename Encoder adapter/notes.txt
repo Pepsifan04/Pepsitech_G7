@@ -6,7 +6,7 @@ CHANNELS A AND B ON THE ENCODER NEED TO BE SWAPPED!
 IMPORTANT!!
 
 If you're running non-stock gear ratio (like for ex 22:1) you need to design your own encoder
-for 27:1 I'm using 36 slot, if ratio the bigger the ratio the less slots in the encoder.
+for 27:1 I'm using 36 slot, the bigger the ratio the less slots in the encoder.
 
 Same applies if you want to change max rotatio of the wheel, the more rotation the smaller encoder.
 
