@@ -12,5 +12,7 @@ PC software will obv still think that it is 900 deg, but in most sims you can/ o
 
 Deadzone is still there, that's how brushed DC motors work, unfortunately. However by using smaller rated voltage motors there is possibility of reducing it, if not removing completely.
 
+NOT ALL FILES ARE UPLOADED, REASON BEING I'M STILL TRYING TO REFINE THEM.
 
 Thats all for now, I'll update this readme as the project continues
+
