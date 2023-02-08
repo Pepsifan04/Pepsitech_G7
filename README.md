@@ -1,3 +1,5 @@
+# Readme is slightly out of date, I'll update it soon
+
 # Pepsitech_G7
 # Buy a Thrustmaster.
 
